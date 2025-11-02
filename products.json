@@ -1,0 +1,332 @@
+[
+    {
+        "id": 1,
+        "name": "Monster Ultra White",
+        "image": "img/ultras/1.png",
+        "description": "The OG of zero-sugar energy drinks. Zero Ultra delivers light, refreshing flavor and low-calorie energy—zero sugar, full Monster. It’s the white can that started it all."
+    },
+    {
+        "id": 2,
+        "name": "Monster Ultra Black",
+        "image": "img/ultras/2.png",
+        "description": "Dark cherry flavor with a smooth finish. This zero-sugar, low-calorie energy drink is elegant, bold, and powered by the Monster Energy blend for a refined energy boost."
+    },
+    {
+        "id": 3,
+        "name": "Monster Ultra Peachy Keen",
+        "image": "img/ultras/3.png",
+        "description": "Juicy peach flavor with zero sugar and low calories. Ultra Peachy Keen delivers a sweet, smooth, and refreshing energy punch with the Monster Energy blend for a delicious boost."
+    },
+    {
+        "id": 4,
+        "name": "Monster Ultra Watermelon",
+        "image": "img/ultras/4.png",
+        "description": "Refreshing watermelon flavor with zero sugar and full taste. Dive into your favorite summer treat—powered by the Monster Energy blend and made to hit year-round."
+    },
+    {
+        "id": 5,
+        "name": "Monster Ultra Golden Pineapple",
+        "image": "img/ultras/5.png",
+        "description": "While we can’t promise immortality our Ultra Golden Pineapple is as close as we can get. With zero sugar, easy-drinking with the heavenly fresh flavor of biting into perfectly ripened golden pineapple. Go for the Gold!"
+    },
+    {
+        "id": 6,
+        "name": "Monster Ultra Sunrise",
+        "image": "img/ultras/6.png",
+        "description": "This sparkling citrus and orange flavor energy drink is zero sugar and low calorie. Crisp, light, and built for any time of day—morning or night."
+    },
+    {
+        "id": 7,
+        "name": "Monster Ultra Rosa",
+        "image": "img/ultras/7.png",
+        "description": "Light floral notes with a crisp finish. This zero-sugar energy drink is elegant, refreshing, and bold—charged with the Monster Energy blend for unrelenting energy."
+    },
+    {
+        "id": 8,
+        "name": "Monster Ultra Red",
+        "image": "img/ultras/8.png",
+        "description": "Crisp and refreshing mixed berry flavor with bold energy. Ultra Red has zero sugar, low calories, and is packed with the Monster Energy blend for pure refreshment and focused power."
+    },
+    {
+        "id": 9,
+        "name": "Monster Ultra Blue",
+        "image": "img/ultras/9.png",
+        "description": "Frosty, crisp, and electric in every sip. Ultra Blue delivers that familiar blue raspberry flavor, powered by the zero sugar Monster Energy blend for clean, focused energy."
+    },
+    {
+        "id": 10,
+        "name": "Monster Ultra Strawberry Dreams",
+        "image": "img/ultras/10.png",
+        "description": "A wonderfully sweet yet slightly tart strawberry flavor with zero sugar and low calories. Smooth, dreamy, and charged with the Monster Energy blend for refreshing, focused energy."
+    },
+    {
+        "id": 11,
+        "name": "Monster Ultra Fantasy Ruby Red",
+        "image": "img/ultras/11.png",
+        "description": "Grapefruit flavor with a citrus punch. Ultra Fantasy Ruby Red is zero sugar, bold, and built to fuel your creative chaos—energy with imagination."
+    },
+    {
+        "id": 12,
+        "name": "Monster Ultra Paradise",
+        "image": "img/ultras/12.png",
+        "description": "Ultra Paradise delivers island flavors of kiwi, lime, and cucumber with zero sugar. This crisp, tropical energy escape is powered by the Monster Energy blend."
+    },
+    {
+        "id": 13,
+        "name": "Monster Ultra Fiesta",
+        "image": "img/ultras/13.png",
+        "description": "Juicy mango flavor with zero sugar and low calories. Ultra Fiesta Mango is built to keep the party going with bold tropical flavor and the Monster Energy blend."
+    },
+    {
+        "id": 14,
+        "name": "Monster Ultra Vice Guava",
+        "image": "img/ultras/14.png",
+        "description": "Ripened guava flavor with Miami swagger. Ultra Vice Guava has zero sugar, low calories, and the Monster Energy blend to fuel your fire. Bold energy for those who never blend in."
+    },
+    {
+        "id": 15,
+        "name": "Monster Ultra Blue Hawaiian",
+        "image": "img/ultras/15.png",
+        "description": "Light, crisp, and super easy-drinking with a tropical tiki twist. Ultra Blue Hawaiian blends exotic Polynesian fruit flavors that are big on taste, zero sugar, and powered by the Monster Energy blend."
+    },
+    {
+        "id": 16,
+        "name": "Monster Ultra Violet",
+        "image": "img/ultras/16.png",
+        "description": "Light citrus and grape sweetness with retro purple vibes. This zero-sugar, low-calorie energy drink is crisp, smooth, and complex, powered by the Monster Energy blend."
+    },
+    {
+        "id": 17,
+        "name": "Monster Energy Super-Premium Import",
+        "image": "img/original/1.png",
+        "description": "The original Monster—just a little less sweet, packed in a super-premium resealable can that delivers the same legendary Monster Energy blend. Smooth, powerful, and built for the road"
+    },
+    {
+        "id": 18,
+        "name": "Monster Energy Zero Sugar",
+        "image": "img/original/2.png",
+        "description": "The sugar-free version of the original — less sweet, same legendary Monster Energy blend for uncompromised energy without the sugar."
+    },
+    {
+        "id": 19,
+        "name": "Monster Energy Nitro Super Dry",
+        "image": "img/original/3.png",
+        "description": "A super-dry twist on the classic, infused with nitrous oxide for a uniquely smooth texture and explosive Monster Energy power."
+    },
+    {
+        "id": 20,
+        "name": "Monster Energy Reserve White Pineapple",
+        "image": "img/original/4.png",
+        "description": "Premium Reserve line with a bright white-pineapple flavor — crisp, tropical, and refined, made for those who crave bold fruit flavor."
+    },
+    {
+        "id": 21,
+        "name": "Monster Energy Reserve Orange Dreamsicle",
+        "image": "img/original/5.png",
+        "description": "Inspired by the classic creamsicle — smooth orange and creamy vanilla collide for a nostalgic, high-energy treat."
+    },
+    {
+        "id": 22,
+        "name": "Monster Energy Reserve Peaches n’ Crème",
+        "image": "img/original/6.png",
+        "description": "A smooth, creamy peach flavor from the Reserve line — sweet, silky, and delicious with the full Monster Energy kick."
+    },
+    {
+        "id": 23,
+        "name": "Monster Energy Lo-Carb",
+        "image": "img/original/7.png",
+        "description": "Lower carbs, same big Monster Energy blend — lighter in flavor but just as powerful."
+    },
+    {
+        "id": 24,
+        "name": "Monster Energy Original Green “OG”",
+        "image": "img/original/8.png",
+        "description": "The original green Monster — sweet, salty, and citrusy with a bold energy punch. The one that started it all."
+    },
+    {
+        "id": 25,
+        "name": "Monster Energy Electric Blue",
+        "image": "img/original/9.png",
+        "description": "Bright, electric blue flavor with a refreshing bite and the legendary Monster Energy blend for pure charge."
+    },
+    {
+        "id": 26,
+        "name": "Monster Energy Orange Dreamsicle (Original listing)",
+        "image": "img/original/10.png",
+        "description": "Creamy orange flavor from the Original/Reserve family — nostalgic and full-bodied, blended with classic Monster energy."
+    },
+    {
+        "id": 27,
+        "name": "Java Monster Mean Bean",
+        "image": "img/java/1.png",
+        "description": "Coffee + energy done right — smooth roasted coffee flavor with Monster’s signature energy blend for long-lasting focus."
+    },
+    {
+        "id": 28,
+        "name": "Java Monster Loca Moca",
+        "image": "img/java/2.png",
+        "description": "Rich mocha coffee flavor combined with Monster’s powerful energy blend — for those who like their coffee bold."
+    },
+    {
+        "id": 29,
+        "name": "Java Monster Salted Caramel",
+        "image": "img/java/3.png",
+        "description": "Sweet and salty caramel with real coffee — indulgent, creamy, and packed with Monster Energy."
+    },
+    {
+        "id": 30,
+        "name": "Java Monster Irish Crème",
+        "image": "img/java/4.png",
+        "description": "A rich coffee blend with smooth Irish crème flavor — mellow, creamy, and fully charged with Monster power."
+    },
+    {
+        "id": 31,
+        "name": "Java Monster Café Latte",
+        "image": "img/java/5.png",
+        "description": "Classic café latte taste in a can — smooth coffee and milk combined with the Monster Energy blend."
+    },
+    {
+        "id": 32,
+        "name": "Killer Brew Loca Moca",
+        "image": "img/java/6.png",
+        "description": "Strong coffee flavor with mocha tones and an intense energy boost — part of the Killer Brew lineup."
+    },
+    {
+        "id": 33,
+        "name": "Killer Brew Mean Bean",
+        "image": "img/java/7.png",
+        "description": "Bold, dark coffee taste with extra energy — straightforward and powerful, built for hard workers."
+    },
+    {
+        "id": 34,
+        "name": "Java Monster 300 Mocha",
+        "image": "img/java/8.png",
+        "description": "Compact 300ml can with a rich mocha flavor and a concentrated hit of Monster energy."
+    },
+    {
+        "id": 35,
+        "name": "Java Monster 300 French Vanilla",
+        "image": "img/java/9.png",
+        "description": "Creamy French vanilla coffee flavor in a 300ml size — sweet, smooth, and packed with energy for the road."
+    },
+    {
+        "id": 36,
+        "name": "Juice Monster Mango Loco",
+        "image": "img/juice/1.png",
+        "description": "A crazy good mix of real juices with explosive mango flavor and the legendary Monster Energy blend."
+    },
+    {
+        "id": 37,
+        "name": "Juice Monster Bad Apple",
+        "image": "img/juice/2.png",
+        "description": "Crisp apple juice taste with Monster Energy power — juicy, refreshing, and wickedly smooth."
+    },
+    {
+        "id": 38,
+        "name": "Juice Monster Viking Berry",
+        "image": "img/juice/3.png",
+        "description": "Bold berry flavor inspired by the north — rich fruit notes with full Monster Energy charge."
+    },
+    {
+        "id": 39,
+        "name": "Juice Monster Rio Punch",
+        "image": "img/juice/4.png",
+        "description": "Tropical punch bursting with fruit flavor and the signature Monster Energy blend — pure island energy."
+    },
+    {
+        "id": 40,
+        "name": "Juice Monster Pacific Punch",
+        "image": "img/juice/5.png",
+        "description": "Sun-kissed punch flavor packed with tropical fruits and the smooth energy of Monster."
+    },
+    {
+        "id": 41,
+        "name": "Juice Monster Mixxd Punch",
+        "image": "img/juice/12.png",
+        "description": "A tropical fruit punch explosion with real juice and Monster Energy’s legendary blend for a smooth, powerful kick."
+    },
+    {
+        "id": 42,
+        "name": "Juice Monster Pipeline Punch",
+        "image": "img/juice/6.png",
+        "description": "A legendary blend of passion fruit, orange, and guava — sweet, tropical, and endlessly drinkable."
+    },
+    {
+        "id": 43,
+        "name": "Juice Monster Monarch",
+        "image": "img/juice/10.png",
+        "description": "Light, subtle flavour with hints of peach and nectarine. Juiced Monster delivers full fruit flavours with 160 mg of caffeine."
+    },
+    {
+        "id": 44,
+        "name": "Juice Monster Khaotic",
+        "image": "img/juice/8.png",
+        "description": "A re-imagined classic — bold tropical flavor, real juice, and smooth Monster Energy power."
+    },
+    {
+        "id": 45,
+        "name": "Juice Monster Ripper",
+        "image": "img/juice/11.png",
+        "description": "Combines tropical fruit juices with the powerful Monster Energy blend — smooth, juicy, and refreshing with a tropical twist."
+    },
+    {
+        "id": 46,
+        "name": "Juice Monster Khaos",
+        "image": "img/juice/9.png",
+        "description": "Khaos, an insane Juice-Monster hybrid bubbling with the great Monster taste and the big bad buzz you know and love."
+    },
+    {
+        "id": 47,
+        "name": "Rehab Monster Tea + Lemonade",
+        "image": "img/rehab/1.png",
+        "description": "Non-carbonated tea + lemonade combo — refreshing, hydrating, and packed with Monster Energy to keep you going."
+    },
+    {
+        "id": 48,
+        "name": "Rehab Monster Green Tea",
+        "image": "img/rehab/2.png",
+        "description": "Lightly brewed green tea flavor with a hint of sweetness — smooth, clean, and non-carbonated Monster Energy."
+    },
+    {
+        "id": 49,
+        "name": "Rehab Monster Strawberry Lemonade",
+        "image": "img/rehab/3.png",
+        "description": "Sweet strawberry meets tart lemonade — tea-style energy that’s fruity, refreshing, and sugar-free."
+    },
+    {
+        "id": 50,
+        "name": "Rehab Monster Peach Tea",
+        "image": "img/rehab/4.png",
+        "description": "Classic peach tea taste — light, refreshing, and powered by Monster’s signature non-carbonated blend."
+    },
+    {
+        "id": 51,
+        "name": "Rehab Monster Wild Berry",
+        "image": "img/rehab/5.png",
+        "description": "A smooth mix of wild berries blended with tea — crisp, flavorful, and packed with the Monster Energy kick."
+    },
+    {
+        "id": 52,
+        "name": "Monster Full Throttle",
+        "image": "img/extra/1.png",
+        "description": "Carbonated energy drink with taurine, caffeine, L-carnitine and B vitamins with sweeteners. Flavour profile: peach and nectarine."
+    },
+    {
+        "id": 53,
+        "name": "Monster Lando Norris",
+        "image": "img/extra/2.png",
+        "description": "Limited edition collaboration with F1 driver Lando Norris — light, fruity flavor with the classic Monster Energy blend and racing-inspired design."
+    },
+    {
+        "id": 54,
+        "name": "Monster The Doctor",
+        "image": "img/extra/4.png",
+        "description": "500 ml carbonated energy drink with 160 mg caffeine. Light, crisp and refreshing citrus taste. Created in collaboration with MotoGP Champion Valentino Rossi."
+    },
+    {
+        "id": 55,
+        "name": "Monster The Doctor Zero Sugar",
+        "image": "img/extra/3.png",
+        "description": "Zero sugar version of The Doctor – light, crispy, refreshing citrus taste with full dose of our legendary Monster Energy mix."
+    }
+]
