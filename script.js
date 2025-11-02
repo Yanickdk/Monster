@@ -78,8 +78,8 @@ function showResult() {
     resultContainer.innerHTML = `
         <div id="resultContent">
         <img src="img/icons/cross.svg" id="close">
-            <h2>Your Monster of Today:</h2>
-            <img src="${selected.image}" alt="${selected.name}" style="max-height:40vh;">
+            <h2>Your Monster of today:</h2>
+            <img src="${selected.image}" draggable="false" alt="${selected.name}" style="max-height:40vh;">
             <div id="text">
                 <h3>${selected.name}</h3>
                 <p>${selected.description}</p>
@@ -90,12 +90,14 @@ function showResult() {
     document.querySelector("#close").addEventListener("click", function () {
         document.body.style.overflow = "visible";
         resultContainer.style.transform = "translateX(100vw)";
-
-
-
     })
 }
 
+document.querySelector("#uncheck").addEventListener("click", function(){
+    document.querySelectorAll('input[name="product"]:checked').forEach(input => {
+        input.checked = false;
+    });
+})
 
 showBtn.addEventListener("click", showResult);
 
@@ -103,3 +105,4 @@ showBtn.addEventListener("click", showResult);
 /*resultContainer.textContent = selectedProducts.length
     ? `Selected: ${selectedProducts.join(", ")}`
     : "No products selected.";*/
+

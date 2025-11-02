@@ -7,7 +7,7 @@
     },
     {
         "id": 2,
-        "name": " Monster Ultra Black",
+        "name": "Monster Ultra Black",
         "image": "img/ultras/2.png",
         "description": "Dark cherry flavor with a smooth finish. This zero-sugar, low-calorie energy drink is elegant, bold, and powered by the Monster Energy blend for a refined energy boost."
     },
@@ -241,50 +241,92 @@
     },
     {
         "id": 41,
+        "name": "Juice Monster Mixxd Punch",
+        "image": "img/juice/12.png",
+        "description": "A tropical fruit punch explosion with real juice and Monster Energy’s legendary blend for a smooth, powerful kick."
+    },
+    {
+        "id": 42,
         "name": "Juice Monster Pipeline Punch",
         "image": "img/juice/6.png",
         "description": "A legendary blend of passion fruit, orange, and guava — sweet, tropical, and endlessly drinkable."
     },
     {
-        "id": 42,
-        "name": "Juice Monster Aussie Style Lemonade",
-        "image": "img/juice/7.png",
-        "description": "Inspired by Australian lemonade — light, refreshing, and perfectly balanced with Monster’s energy blend."
+        "id": 43,
+        "name": "Juice Monster Monarch",
+        "image": "img/juice/10.png",
+        "description": "Light, subtle flavour with hints of peach and nectarine. Juiced Monster delivers full fruit flavours with 160 mg of caffeine."
     },
     {
-        "id": 43,
+        "id": 44,
         "name": "Juice Monster Khaotic",
         "image": "img/juice/8.png",
         "description": "A re-imagined classic — bold tropical flavor, real juice, and smooth Monster Energy power."
     },
     {
-        "id": 44,
+        "id": 45,
+        "name": "Juice Monster Ripper",
+        "image": "img/juice/11.png",
+        "description": "Combines tropical fruit juices with the powerful Monster Energy blend — smooth, juicy, and refreshing with a tropical twist."
+    },
+    {
+        "id": 46,
+        "name": "Juice Monster Khaos",
+        "image": "img/juice/9.png",
+        "description": "Khaos, an insane Juice-Monster hybrid bubbling with the great Monster taste and the big bad buzz you know and love."
+    },
+    {
+        "id": 47,
         "name": "Rehab Monster Tea + Lemonade",
         "image": "img/rehab/1.png",
         "description": "Non-carbonated tea + lemonade combo — refreshing, hydrating, and packed with Monster Energy to keep you going."
     },
     {
-        "id": 45,
+        "id": 48,
         "name": "Rehab Monster Green Tea",
         "image": "img/rehab/2.png",
         "description": "Lightly brewed green tea flavor with a hint of sweetness — smooth, clean, and non-carbonated Monster Energy."
     },
     {
-        "id": 46,
+        "id": 49,
         "name": "Rehab Monster Strawberry Lemonade",
         "image": "img/rehab/3.png",
         "description": "Sweet strawberry meets tart lemonade — tea-style energy that’s fruity, refreshing, and sugar-free."
     },
     {
-        "id": 47,
+        "id": 50,
         "name": "Rehab Monster Peach Tea",
         "image": "img/rehab/4.png",
         "description": "Classic peach tea taste — light, refreshing, and powered by Monster’s signature non-carbonated blend."
     },
     {
-        "id": 48,
+        "id": 51,
         "name": "Rehab Monster Wild Berry",
         "image": "img/rehab/5.png",
         "description": "A smooth mix of wild berries blended with tea — crisp, flavorful, and packed with the Monster Energy kick."
+    },
+    {
+        "id": 52,
+        "name": "Monster Full Throttle",
+        "image": "img/extra/1.png",
+        "description": "Carbonated energy drink with taurine, caffeine, L-carnitine and B vitamins with sweeteners. Flavour profile: peach and nectarine."
+    },
+    {
+        "id": 53,
+        "name": "Monster Lando Norris",
+        "image": "img/extra/2.png",
+        "description": "Limited edition collaboration with F1 driver Lando Norris — light, fruity flavor with the classic Monster Energy blend and racing-inspired design."
+    },
+    {
+        "id": 54,
+        "name": "Monster The Doctor",
+        "image": "img/extra/4.png",
+        "description": "500 ml carbonated energy drink with 160 mg caffeine. Light, crisp and refreshing citrus taste. Created in collaboration with MotoGP Champion Valentino Rossi."
+    },
+    {
+        "id": 55,
+        "name": "Monster The Doctor Zero Sugar",
+        "image": "img/extra/3.png",
+        "description": "Zero sugar version of The Doctor – light, crispy, refreshing citrus taste with full dose of our legendary Monster Energy mix."
     }
 ]
