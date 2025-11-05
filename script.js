@@ -1,7 +1,9 @@
 const checklistContainer = document.querySelector("#checklist");
 const resultContainer = document.querySelector("#result");
 const showBtn = document.querySelector("#showResultBtn");
+const uncheck = document.querySelector("#uncheck")
 
+let uncheckIsChecked = false; // Negeer die variable naam
 let selectedProducts = [];
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -65,6 +67,14 @@ function updateSelectedProducts() {
             image: imgSrc
         };
     });
+
+    if (selectedProducts.length > 0) {
+        uncheck.innerHTML = "Uncheck All";
+        uncheckIsChecked = true;
+    } else {
+        uncheck.innerHTML = "Check All";
+        uncheckIsChecked = false;
+    }
 }
 
 function showResult() {
@@ -93,16 +103,31 @@ function showResult() {
     })
 }
 
-document.querySelector("#uncheck").addEventListener("click", function(){
-    document.querySelectorAll('input[name="product"]:checked').forEach(input => {
-        input.checked = false;
-    });
-})
+function checkChecked(){
+    if (uncheckIsChecked) {
+        uncheck.innerHTML = "Check All";
+        document.querySelectorAll('input[name="product"]').forEach(input => {
+            input.checked = false;
+        });
+        uncheckIsChecked = false;
+    } else {
+        uncheck.innerHTML = "Uncheck All";
+        document.querySelectorAll('input[name="product"]').forEach(input => {
+            input.checked = true;
+        });
+        uncheckIsChecked = true;
+    }
+    updateSelectedProducts()
+}
+
+
+
+uncheck.addEventListener("click", () => checkChecked())
 
 showBtn.addEventListener("click", showResult);
 
 
 /*resultContainer.textContent = selectedProducts.length
     ? `Selected: ${selectedProducts.join(", ")}`
-    : "No products selected.";*/
+    : "No products selected."*/;
 
